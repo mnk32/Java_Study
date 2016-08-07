@@ -1,4 +1,5 @@
 package www.nurv.inherit;
+import www.nurv.inherit.Name;
 
 public class CollectionTest {
 
